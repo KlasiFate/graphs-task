@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "graphs"
 version = "0.1.0"
-description = ""
+description = "This package represents task of subject `Graphs and algorithms`. Task is implementation algorithm which builds tree from graph basing on DFS algorithm"
 authors = ["KlasiFate <klasifate@gmail.com>"]
 readme = "README.md"
 

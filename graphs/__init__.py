@@ -25,3 +25,9 @@ __all__ = [
     "write_output_graph",
     "read_min_adj_matrix_as_edges_set",
 ]
+
+__author__ = "KlasiFate"
+__description__ = "This package represents task of subject `Graphs and algorithms`. Task is implementation algorithm which builds tree from graph basing on DFS algorithm"
+__license__ = "MIT"
+__version__ = "0.1.0"
+__email__ = "klasifate@gmail.com"

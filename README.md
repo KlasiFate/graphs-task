@@ -1,3 +1,6 @@
+## What is it?
+This package represents task of subject "Graphs and algorithms". Task is implementation algorithm which builds tree from graph basing on DFS algorithm
+
 ## Install and activate virtual environment
 IMPORTANT: this package needs python version 3.10 and numpy
 - Using poetry on linux and windows
