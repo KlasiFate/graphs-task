@@ -55,3 +55,4 @@ IMPORTANT: this package needs python version 3.10 and numpy
 ```bash
 python -m graphs building-tree --help
 ```
+Сам алгоритм фактически содержится в 2 файлах: `graphs/base.py` и `graphs/building_tree.py`. Чтобы вам не копаться во всем коде.

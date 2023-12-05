@@ -121,3 +121,4 @@ coverage-report-html/
 .komodotools
 
 poetry.lock
+.VSCodeCounter
